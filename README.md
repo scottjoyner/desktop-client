@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** The README below describes Electron React Boilerplate (ERB), with original maintainer/technology references. This is a copy hosted at `scottjoyner/desktop-client`, not evidence of an independently released desktop application.
+> 
+> **Before building:** Review the installed Electron/Node versions, native-module compatibility, packaging signatures, and auto-update configuration. Do not trust or distribute unsigned binaries without appropriate validation.
+<!-- repo-entrypoint-guide:end -->
+
 <img src="internals/img/erb-banner.png" width="100%" />
 
 <br>
